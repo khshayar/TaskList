@@ -1,0 +1,12 @@
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Entities/bin/Debug/net8.0/Task.Entities.deps.json
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Entities/bin/Debug/net8.0/Task.Entities.dll
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Entities/bin/Debug/net8.0/Task.Entities.pdb
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Entities/obj/Debug/net8.0/Task.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Entities/obj/Debug/net8.0/Task.Entities.AssemblyInfoInputs.cache
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Entities/obj/Debug/net8.0/Task.Entities.AssemblyInfo.cs
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Entities/obj/Debug/net8.0/Task.Entities.csproj.CoreCompileInputs.cache
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Entities/obj/Debug/net8.0/Task.Entities.sourcelink.json
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Entities/obj/Debug/net8.0/Task.Entities.dll
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Entities/obj/Debug/net8.0/refint/Task.Entities.dll
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Entities/obj/Debug/net8.0/Task.Entities.pdb
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Entities/obj/Debug/net8.0/ref/Task.Entities.dll

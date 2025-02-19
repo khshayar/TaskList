@@ -1,0 +1,12 @@
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Application/bin/Debug/net8.0/Task.Application.deps.json
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Application/bin/Debug/net8.0/Task.Application.dll
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Application/bin/Debug/net8.0/Task.Application.pdb
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Application/obj/Debug/net8.0/Task.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Application/obj/Debug/net8.0/Task.Application.AssemblyInfoInputs.cache
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Application/obj/Debug/net8.0/Task.Application.AssemblyInfo.cs
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Application/obj/Debug/net8.0/Task.Application.csproj.CoreCompileInputs.cache
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Application/obj/Debug/net8.0/Task.Application.sourcelink.json
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Application/obj/Debug/net8.0/Task.Application.dll
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Application/obj/Debug/net8.0/refint/Task.Application.dll
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Application/obj/Debug/net8.0/Task.Application.pdb
+/home/khshayar/Documents/recovery/TaskList/Core/Task.Application/obj/Debug/net8.0/ref/Task.Application.dll

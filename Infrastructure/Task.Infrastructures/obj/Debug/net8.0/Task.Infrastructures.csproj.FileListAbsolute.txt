@@ -1,0 +1,12 @@
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Infrastructures/bin/Debug/net8.0/Task.Infrastructures.deps.json
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Infrastructures/bin/Debug/net8.0/Task.Infrastructures.dll
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Infrastructures/bin/Debug/net8.0/Task.Infrastructures.pdb
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Infrastructures/obj/Debug/net8.0/Task.Infrastructures.GeneratedMSBuildEditorConfig.editorconfig
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Infrastructures/obj/Debug/net8.0/Task.Infrastructures.AssemblyInfoInputs.cache
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Infrastructures/obj/Debug/net8.0/Task.Infrastructures.AssemblyInfo.cs
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Infrastructures/obj/Debug/net8.0/Task.Infrastructures.csproj.CoreCompileInputs.cache
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Infrastructures/obj/Debug/net8.0/Task.Infrastructures.sourcelink.json
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Infrastructures/obj/Debug/net8.0/Task.Infrastructures.dll
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Infrastructures/obj/Debug/net8.0/refint/Task.Infrastructures.dll
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Infrastructures/obj/Debug/net8.0/Task.Infrastructures.pdb
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Infrastructures/obj/Debug/net8.0/ref/Task.Infrastructures.dll

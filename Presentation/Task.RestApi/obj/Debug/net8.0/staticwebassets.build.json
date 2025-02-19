@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j8xDv1kaZu/BQiY9F6KlCEx2HHvMW86Pdmw5CCIBMvY=",
+  "Source": "Task.RestApi",
+  "BasePath": "_content/Task.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

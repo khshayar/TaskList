@@ -1,0 +1,16 @@
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/bin/Debug/net8.0/Task.Persistence.Ef.deps.json
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/bin/Debug/net8.0/Task.Persistence.Ef.dll
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/bin/Debug/net8.0/Task.Persistence.Ef.pdb
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/bin/Debug/net8.0/Task.Entities.dll
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/bin/Debug/net8.0/Task.Entities.pdb
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/obj/Debug/net8.0/Task.Persistence.Ef.csproj.AssemblyReference.cache
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/obj/Debug/net8.0/Task.Persistence.Ef.GeneratedMSBuildEditorConfig.editorconfig
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/obj/Debug/net8.0/Task.Persistence.Ef.AssemblyInfoInputs.cache
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/obj/Debug/net8.0/Task.Persistence.Ef.AssemblyInfo.cs
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/obj/Debug/net8.0/Task.Persistence.Ef.csproj.CoreCompileInputs.cache
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/obj/Debug/net8.0/Task.Persistence.Ef.sourcelink.json
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/obj/Debug/net8.0/Task.Per.FE458D57.Up2Date
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/obj/Debug/net8.0/Task.Persistence.Ef.dll
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/obj/Debug/net8.0/refint/Task.Persistence.Ef.dll
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/obj/Debug/net8.0/Task.Persistence.Ef.pdb
+/home/khshayar/Documents/recovery/TaskList/Infrastructure/Task.Persistence.Ef/obj/Debug/net8.0/ref/Task.Persistence.Ef.dll
